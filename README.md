@@ -1,1 +1,1 @@
-# public-clippe
+# public-dnastack-cli
